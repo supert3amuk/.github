@@ -48,7 +48,7 @@
     <a href="https://github.com/supert3amuk/wiki/wiki"><strong>Explore the wiki »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/supert3amuk/community">View Demo</a>
+    <a href="https://supert3amuk.vercel.app">View Demo</a>
     ·
     <a href="https://github.com/supert3amuk/community/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
