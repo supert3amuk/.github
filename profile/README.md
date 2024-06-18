@@ -35,7 +35,8 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="images/logo.png" alt="Logo" width="80" height="80">
       <source media="(prefers-color-scheme: light)" srcset="images/logo1.png" alt="Logo" width="80" height="80">
-     </picture>
+      <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+    </picture>
 </p>
   </a>
 
