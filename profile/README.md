@@ -217,7 +217,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/ju3t1ng) - ju3tin95@gmail.com
+Your Name - [@ju3t1ng](https://twitter.com/ju3t1ng) - ju3tin95@gmail.com
 
 Project Link: [https://github.com/supert3amuk/community](https://github.com/supert3amuk/community)
 
