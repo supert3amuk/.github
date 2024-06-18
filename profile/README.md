@@ -45,7 +45,7 @@
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/supert3amuk/community"><strong>Explore the wiki »</strong></a>
+    <a href="https://github.com/supert3amuk/wiki/wiki"><strong>Explore the wiki »</strong></a>
     <br />
     <br />
     <a href="https://github.com/supert3amuk/community">View Demo</a>
