@@ -93,16 +93,16 @@
 Welcome to the Community Site! This project is a web application built using Next.js and Solana, designed to help community members post articles, organize events, and learn more about Solana blockchain technology.
 
 Here's why:
-* Article Posting: Users can create, edit, and delete articles related to Solana and blockchain technology.
-* Event Management: Users can post details about upcoming events, view event information, and RSVP.
+* Article Posting: Members can create, edit, and delete articles related to Solana and blockchain technology.
+* Event Management: Members can post details about upcoming events, view event information, and RSVP.
 * Learning Resources: A section dedicated to educational content about Solana, including tutorials, guides, and articles.
+* Members Profile: Add information about your projects make a group from the members list add images and information about yourself and more !! 
 <!-- * Your time should be focused on creating something amazing. A project that solves a problem and helps others
 * You shouldn't be doing the same tasks over and over like creating a README from scratch
 * You should implement DRY principles to the rest of your life :smile:-->
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Of course, tools to help you get your projects of the ground.
 
-Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
