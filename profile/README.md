@@ -264,9 +264,9 @@ Use this space to list resources you find helpful and would like to give credit 
 [React-url]: https://reactjs.org/
 [Vue.js]: images/cloudinary1.svg
 [Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+[Angular.io]: images/javascript1.svg
 [Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
+[Svelte.dev]: images/mongo.svg
 [Svelte-url]: https://svelte.dev/
 [Laravel.com]: images/solana.svg
 [Laravel-url]: https://laravel.com
