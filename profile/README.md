@@ -43,7 +43,7 @@
   <h3 align="center">Supert3am UK Community Site and Tools</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An awesome site to jumpstart your projects and to lift your profile!
     <br />
     <a href="https://github.com/supert3amuk/wiki/wiki"><strong>Explore the wiki »</strong></a>
     <br />
