@@ -91,6 +91,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://supert3amuk.vercel.app)
 Welcome to the Community Site! This project is a web application built using Next.js and Solana, designed to help community members post articles, organize events, and learn more about Solana blockchain technology.
+
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
 * You shouldn't be doing the same tasks over and over like creating a README from scratch
