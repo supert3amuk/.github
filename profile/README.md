@@ -101,7 +101,7 @@ Here's why:
 * You shouldn't be doing the same tasks over and over like creating a README from scratch
 * You should implement DRY principles to the rest of your life :smile:-->
 
-Of course, tools to help you get your projects of the ground.
+Of course, tools to help you get your projects of the ground suchas a chatbot that can write you a Solana Program.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -126,12 +126,11 @@ Of course, tools to help you get your projects of the ground.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This web application was made using NPM version 10.5.0 but please use the latest
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+If you haven't already installed NPM open up a terminal window and follow the instrustions below
 * npm
   ```sh
   npm install npm@latest -g
