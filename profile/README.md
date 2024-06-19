@@ -93,6 +93,9 @@
 Welcome to the Community Site! This project is a web application built using Next.js and Solana, designed to help community members post articles, organize events, and learn more about Solana blockchain technology.
 
 Here's why:
+* Article Posting: Users can create, edit, and delete articles related to Solana and blockchain technology.
+* Event Management: Users can post details about upcoming events, view event information, and RSVP.
+* Learning Resources: A section dedicated to educational content about Solana, including tutorials, guides, and articles.
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
 * You shouldn't be doing the same tasks over and over like creating a README from scratch
 * You should implement DRY principles to the rest of your life :smile:
